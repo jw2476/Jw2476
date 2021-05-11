@@ -1,16 +1,14 @@
-### Hi there 👋
+### Jw2476
 
-<!--
-**jw2476/Jw2476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a MMORPG game engine in C++
+- 🌱 I’m currently learning how to make a MMORPG game engine in C++
+- ⚡ Fun fact: Facts are sometimes fun
 
-Here are some ideas to get you started:
+## My stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:inline;margin:auto">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jw2476&private=true&show_icons=true&theme=onedark"/>
+</div>
+<div style="display:inline;margin:auto">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jw2476&hide=python&langs_count=12a&layout=compact&theme=onedark"/>
+ </div>
