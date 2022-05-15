@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on a MMORPG game engine in C++
 - 🌱 I’m currently learning how to make a MMORPG game engine in C++
-- ⚡ Fun fact: Facts are sometimes fun
 
 ## My stats
 
