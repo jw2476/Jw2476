@@ -1,7 +1,9 @@
 ### Jw2476
 
-- 🔭 I’m currently working on a MMORPG game engine in C++
-- 🌱 I’m currently learning how to make a MMORPG game engine in C++
+Working on
+- An operating system in BrainF\*\*k
+- A small game engine for an MMO I'm working on called Aetheria
+- An LED cube (it glow)
 
 ## My stats
 
