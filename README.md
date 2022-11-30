@@ -1,6 +1,6 @@
 ### Jw2476
 
-Working on
+I'm current working on:
 - An operating system in BrainF\*\*k
 - A small game engine for an MMO I'm working on called Aetheria
 - An LED cube (it glow)
