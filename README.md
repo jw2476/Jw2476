@@ -6,3 +6,4 @@ I'm current working on:
 - An LED cube (it glow)
 - [A cargo-inspired C build system](https://github.com/jw2476/teapot)
 - [A faster, more reliable way of writing code](https://github.com/jw2476/ember)
+- [A programming language for building reliable, fast software](https://github.com/jw2476/compass)
